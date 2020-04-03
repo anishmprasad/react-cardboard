@@ -1,2 +1,6 @@
 
 # react-cardboard
+
+
+# Licence
+MIT
